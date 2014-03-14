@@ -1,0 +1,21 @@
+{    
+"vmware":{        
+	"config":{            
+		"version":1.0        
+		},
+	"applications":{            
+		"applicationDirectorWebImport":{                
+			"exportFileName":"Spring-Integration-Environment Setup-v1-0-0.xml",                
+			"exportedFileReadme":"Spring-Integration-Environment Setup-v1-0-0.xml.readme",                
+			"importSectionHeader":"Spring-Integration-Environment Setup-v1-0-0",                
+			"exportedWithAppDVersion":5.2,                
+			"optional":{                    
+				"nextStepsMarkdownFile":"Spring-Integration-Environment Setup-v1-0-0-Service.xml.md",                    
+				"enableConsoleLogging":true,                    
+				"exportedFileErrorReadme":"Spring-Integration-Environment-v1-0-0.xml.error.readme"                
+				}
+			}
+		}
+	}
+}
+
